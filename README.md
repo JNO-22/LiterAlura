@@ -10,8 +10,8 @@ Literalura es una aplicación que te permite gestionar tu biblioteca personal de
 - Generar estadísticas sobre los libros.
 
 ## ¿De donde sacan los datos?
-literAlura utiliza una API para obtener la información sobre libros y autores: https://gutendex.com/ 
-Tambien usa una base de datos local para su uso sin conexion
+- literAlura utiliza una API para obtener la información sobre libros y autores: https://gutendex.com/ 
+- Tambien usa una base de datos local para su uso sin conexion
 
 ## Tecnologías utilizadas:
 - Java 17
